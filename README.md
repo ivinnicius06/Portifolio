@@ -1,26 +1,54 @@
-# Icaro Dev
+# Icaro Vinnicius | Desenvolvedor de Software
 
-Portfólio de Icaro Vinnicius, em português, desenvolvido com HTML, CSS e JavaScript. Não requer instalação de dependências ou etapa de build.
+Olá! Seja bem-vindo ao meu repositório.
 
-## Prévia local
+Sou **Icaro Vinnicius**, estudante de **Engenharia de Software**, interessado no desenvolvimento web e na criação de experiências digitais modernas, funcionais e responsivas.
 
-Com Node.js instalado, execute `node server.mjs` na pasta do projeto e acesse http://127.0.0.1:4173.
+Este repositório contém o código-fonte do meu portfólio profissional, onde apresento alguns dos projetos que desenvolvi, com foco na construção de landing pages e soluções web para diferentes segmentos.
 
-## Editar conteúdo
+## 🌐 Portfólio
 
-- `dist/index.html`: apresentação, projetos, tecnologias e contatos.
-- `dist/styles.css`: cores, tipografia, layout e versões responsivas.
-- `dist/script.js`: atualização automática do ano no rodapé.
-- `dist/images/`: capturas reais dos seis projetos, otimizadas em WebP.
+**Acesse meu portfólio online:**
 
-Cada projeto tem um link para o site publicado e outro para seu repositório no GitHub. O e-mail abre o aplicativo de e-mail; o telefone abre uma conversa no WhatsApp. Nenhuma mensagem é enviada automaticamente.
+🔗 [https://icaro-dev.pages.dev/](https://icaro-dev.pages.dev/)
 
-## Hospedagem
+No site, você encontrará projetos desenvolvidos, demonstrações de páginas publicadas, tecnologias utilizadas e formas de entrar em contato comigo.
 
-A pasta pública é `dist`. O site funciona em hospedagens de arquivos estáticos. A configuração do Sites fica em `.openai/hosting.json`.
+## 👨‍💻 Sobre mim
 
-## Fontes do conteúdo
+- **Nome:** Icaro Vinnicius
+- **Formação:** Bacharelando em Engenharia de Software
+- **Área de interesse:** Desenvolvimento de Software e Desenvolvimento Web
+- **Atuação:** Criação de landing pages e aplicações web
+- **Objetivo:** Desenvolver soluções digitais que unam tecnologia, desempenho, usabilidade e design.
 
-Informações pessoais fornecidas por Icaro Vinnicius. Descrições e tecnologias verificadas nos sites e repositórios fornecidos em 18/09/2026. As capturas correspondem à versão acessível nessa data.
+## 🛠️ Tecnologias e conhecimentos
 
-O projeto Clínica aparece com a marca Pelve Vida. O projeto Advocacia aparece com a marca De Victor Advocacia. O projeto IP iPhones tem esse nome no título e no repositório, embora a captura mostre a marca JK IPHONES no cabeçalho.
+- HTML5
+- CSS3
+- JavaScript
+- React
+- TypeScript
+- Git e GitHub
+- Java (conhecimento básico)
+- Spring Boot (conhecimento básico)
+
+Atualmente, estou direcionando meus estudos para **Java e Spring Boot**, buscando aprofundar meus conhecimentos em desenvolvimento backend, APIs REST e construção de aplicações.
+
+## 📂 Sobre este repositório
+
+Este projeto reúne os arquivos utilizados na construção do meu portfólio, incluindo sua estrutura, estilos, funcionalidades e imagens dos projetos apresentados.
+
+O objetivo é centralizar meus trabalhos em um único espaço, facilitando a visualização da minha evolução e das soluções que desenvolvo.
+
+## 📬 Contato
+
+Estou aberto a oportunidades profissionais, estágios, projetos e conexões na área de tecnologia.
+
+**Portfólio:** [icaro-dev.pages.dev](https://icaro-dev.pages.dev/)
+
+**GitHub:** [github.com/ivinnicius06](https://github.com/ivinnicius06)
+
+---
+
+*Desenvolvido por Icaro Vinnicius.*
